@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testconfig version="1.0">
+<information>
+<summary>Framework Template</summary>
+<description>This project showcases major features of Squish w.r.t a demo java application</description>
+</information>
+</testconfig>

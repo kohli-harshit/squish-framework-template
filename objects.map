@@ -1,0 +1,18 @@
+:File_JMenu	{caption='File' container=':SwingSet2_JMenuBar' type='javax.swing.JMenu' visible='true'}
+:Internal Frame Generator.Maximizable_JCheckBox	{caption='Maximizable' container=':Internal Frames Demo.Internal Frame Generator_JInternalFrame' type='javax.swing.JCheckBox' visible='true'}
+:Internal Frame Generator.Resizable_JCheckBox	{caption='Resizable' container=':Internal Frames Demo.Internal Frame Generator_JInternalFrame' type='javax.swing.JCheckBox' visible='true'}
+:Internal Frame Generator_JButton	{caption='' container=':Internal Frames Demo.Internal Frame Generator_JInternalFrame' occurrence='0' type='javax.swing.JButton' visible='true'}
+:Internal Frames Demo.Internal Frame Generator_JInternalFrame	{caption='Internal Frame Generator' container=':SwingSet2.Internal Frames Demo_TabProxy' type='javax.swing.JInternalFrame' visible='true'}
+:JTreeToggleButton	{tooltiptext='JTree demo' type='javax.swing.JToggleButton' visible='true' window=':SwingSet2_JFrame'}
+:JavaTable	{container=':SwingSet2.Table Demo_TabProxy' type='javax.swing.JTable' visible='true'}
+:MusicTree	{basetype='javax.swing.JTree' container=':TreeTab' visible='true'}
+:Option Pane Demo.Show Input Dialog_JButton	{basetype='javax.swing.JButton' caption='Show Input Dialog' container=':SwingSet2.Option Pane Demo_TabProxy' visible='true'}
+:SwingSet2.Internal Frames Demo_TabProxy	{caption='Internal Frames Demo' type='com.froglogic.squish.awt.TabProxy' window=':SwingSet2_JFrame'}
+:SwingSet2.Option Pane Demo_TabProxy	{caption='Option Pane Demo' type='com.froglogic.squish.awt.TabProxy' window=':SwingSet2_JFrame'}
+:SwingSet2.Table Demo_TabProxy	{caption='Table Demo' type='com.froglogic.squish.awt.TabProxy' window=':SwingSet2_JFrame'}
+:SwingSet2_JFrame	{caption='SwingSet2' type='javax.swing.JFrame' visible='true'}
+:SwingSet2_JMenuBar	{type='javax.swing.JMenuBar' visible='true' window=':SwingSet2_JFrame'}
+:SwingSet2_JTabbedPane	{type='javax.swing.JTabbedPane' visible='true' window=':SwingSet2_JFrame'}
+:Table Toggle	{tooltiptext='JTable demo' type='javax.swing.JToggleButton' visible='true' window=':SwingSet2_JFrame'}
+:Themes_JMenu	{caption='Themes' container=':SwingSet2_JMenuBar' type='javax.swing.JMenu' visible='true'}
+:TreeTab	{caption='Tree Demo' type='com.froglogic.squish.awt.TabProxy' window=':SwingSet2_JFrame'}

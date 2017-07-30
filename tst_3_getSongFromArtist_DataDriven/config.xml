@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testconfig version="1.0">
+<information>
+<summary>Test Case to fetch data from Tree</summary>
+<description>This is an example of a data driven test case</description>
+</information>
+
+
+
+
+
+
+<tags>
+<tag>Regression</tag>
+</tags>
+</testconfig>

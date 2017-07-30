@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testconfig version="1.0">
+<information>
+<summary>Test Case to check Themes functionality</summary>
+<description>This is an example of BDD approach</description>
+</information>
+</testconfig>

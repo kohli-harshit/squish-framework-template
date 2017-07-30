@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testconfig version="1.0">
+<information>
+<summary>Test Case to check Frames functionality</summary>
+<description>This is an example of descriptive programming</description>
+</information>
+
+
+
+
+
+
+
+<tags>
+<tag>Smoke</tag>
+<tag>Regression</tag>
+</tags>
+</testconfig>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testconfig version="1.0">
+<information>
+<summary>Test Case to check authenticity of Table Data</summary>
+<description>This uses a 3rd party lib to read excel data</description>
+</information>
+
+
+
+
+
+
+<tags>
+<tag>Regression</tag>
+</tags>
+</testconfig>
